@@ -22,3 +22,5 @@ TO DOWNLOAD:
 PS: This is my first upload and the process is slow but you can execute it in background.
 
 Note: this cannot download episodes which are not available on rapidvideo server on kissanime or requires captcha etc.
+
+Remenber : Links created by RP_downloadeder.py expires after some time(maybe few hours) so it is a good idea to seprately create rapid video links and whenever required create live links using RP_downloader as it takes less time.
