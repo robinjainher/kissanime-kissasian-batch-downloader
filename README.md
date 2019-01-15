@@ -15,7 +15,7 @@ TO DOWNLOAD:
 3. Choose start & end episode.
 4. If no error occurs, it will save a list of rapidvideo links in anime_name_RP.txt file.
 5. You can then use RP_downloader.py to convert rapidvideo links to live links & choose quality(0=lowest(480p),1=higher(720p),2=highest(1080p) (if available).
-6. It will save a anime_name_url.txt file which contains links of episodes.
+6. It will save a anime_name_url.txt file which contains live links of episodes.
 7. You can then use softwares like IDM to batch download(using import feature).
 8. That's it available episodes will be downloaded.
 
