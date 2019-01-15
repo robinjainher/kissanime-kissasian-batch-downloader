@@ -2,7 +2,7 @@
 To download batch anime from kissanime.ru rapidvideo server using selenium in python.
 
 Requirements:
-1. Python with selenium,requests,pprint module installed (using pip install selenium)
+1. Python with selenium,requests,bs4 module installed (using pip install selenium)
 2. Firefox browser.
 
 Change the options.headless = False ,in kissanime_new1.py to run firefox with GUI(for error debugging maybe).
