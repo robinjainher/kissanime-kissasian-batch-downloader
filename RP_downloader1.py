@@ -1,4 +1,4 @@
-import bs4,requests,os,pprint
+import bs4,requests,os
 
 names = os.listdir()
 b = []
@@ -39,7 +39,8 @@ def start():
                     print("Error "+url)
         else:
             print('404 Not Found '+url)
-            
+      
+    name = name.split('_')[0]           
     file = open(name+'_url.txt','w')
     str3 = '\n'.join(list_3)
     file.write(str3)
