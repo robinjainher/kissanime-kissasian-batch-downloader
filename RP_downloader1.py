@@ -1,4 +1,4 @@
-import bs4,requests,os,pprint
+import bs4,requests,os
 
 names = os.listdir()
 b = []
